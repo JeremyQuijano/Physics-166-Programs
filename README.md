@@ -1,3 +1,3 @@
 # Physics-166-Programs
 
-Programs created for my Cosmology Physics course.
+Program created for my Cosmology Physics course.
